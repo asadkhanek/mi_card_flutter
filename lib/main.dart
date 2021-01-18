@@ -10,3 +10,9 @@ void main() {
     ),
   );
 }
+class myapp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
