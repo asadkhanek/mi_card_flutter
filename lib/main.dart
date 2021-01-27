@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.navyblue,
+        backgroundColor: Colors.greenAccent,
         body: Container(),
       ),
     ),
